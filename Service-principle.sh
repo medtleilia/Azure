@@ -1,4 +1,3 @@
-!#/bin/bash
 # $1 is resource group name
 # $2 is the password
 mkdir .ocpazure
