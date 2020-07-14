@@ -1,5 +1,5 @@
 # $1 is resource group name
-# $2 is the password
+# $2. is the password
 mkdir .ocpazure
 cd .ocpazure
 azure login
